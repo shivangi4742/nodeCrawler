@@ -1,0 +1,24 @@
+{
+  "name": "credilio",
+  "version": "1.0.0",
+  "description": "this assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node server.js"
+  },
+  "author": "shivangi",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  },
+  "keywords": []
+}
